@@ -1,0 +1,5 @@
+SDF 1188 167.526
+liuheng 34 56.2
+liuheng 28 21.528
+liuheng 24 20.359
+aef 20 11.498
